@@ -1,0 +1,5 @@
+*.rds
+*.zip
+raw_data/
+rds_obj/
+Thumbs.db
